@@ -105,7 +105,8 @@ View the results dynamically in the app.
 
 The application produces:
 
-
+![screenshot-1](https://github.com/siddhinarayan09/Text-Summarizer-NLP/blob/master/static/Screenshot%202024-12-16%20014202.png)
+![screenshot-2](https://github.com/siddhinarayan09/Text-Summarizer-NLP/blob/master/static/Screenshot%202024-12-16%20015015.png)
 
 ## Future Enhancements
 
